@@ -1,0 +1,10 @@
+
+numpy
+matplotlib
+networkx
+scikit-image
+opencv-python
+jupyter
+ipykernel
+nbformat
+scipy

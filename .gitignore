@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+.ipython/
+
+# Virtual Environments
+venv/
+.env
+
+# MacOS
+.DS_Store
+
+# Temporary Scripts
+modify_notebook*.py
+test_animation.py
+test.py
